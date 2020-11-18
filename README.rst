@@ -256,7 +256,7 @@ Alright, at this point you've done some pretty incredible work, ran some tests, 
 What's Next?
 ###############
 
-Thanks for hanging in there with us in this lab. If you've gotten this far, you've just done some great work with CloudFront from F5 Essential App Protect. Have you looked at any of the othe labs available, or looked at the F5 Essential App Protect Ansible project that automates many of its routine tasks?  Here are some links for you to look at:
+Thanks for hanging in there with us in this lab. If you've gotten this far, you've just done some great work with CloudFront from F5 Essential App Protect. Have you looked at any of the other labs available, or looked at the F5 Essential App Protect Ansible project that automates many of its routine tasks?  Here are some links for you to look at:
 
 * EAP Lab (with UI & Postman): https://github.com/f5devcentral/f5-cloudserviceeaplab
 * EAP with DNSLB Lab (UI only): https://github.com/f5devcentral/f5-cloudservice-eap-lb-lab/
