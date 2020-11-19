@@ -166,7 +166,7 @@ With F5 Essential App Protect it is super easy to add a second endpoint, and to 
 
 .. figure:: _figures/add_region_details.png
 
-The application will be deployed to the second region. Now, the routing of traffic happens based both on Latency *and* availability of the endpoint. That means there's still a chance the app instance far away may be used just because the closer one was busy. However, most of the time you will probably get the 2nd region if it is indeed closer to you geographically.
+The EAP instance will be deployed to the second region. Now, the routing of traffic happens based both on Latency *and* availability of the endpoint. That means there's still a chance the app instance far away may be used just because the closer one was busy. However, most of the time you will probably get the 2nd region if it is indeed closer to you geographically.
 
 It will take several minutes to complete, and during this time we will do a quick journey through some useful new features of the Essential App Protect and let the configuration do its thing.
 
